@@ -1,2 +1,2 @@
-var = 9
+var = gets
 puts var
