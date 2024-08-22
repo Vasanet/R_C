@@ -1,2 +1,2 @@
-var = gets
+var = 7
 puts var
